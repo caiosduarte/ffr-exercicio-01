@@ -1,4 +1,9 @@
 import React from 'react';
+import { Cabecalho } from "./Cabecalho";
+import { Menu } from "./Menu";
+import { Artigo } from "./Artigo";
+import { Sidebar } from "./Sidebar"
+
 import logo from './logo.svg';
 import './App.css';
 
